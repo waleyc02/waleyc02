@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @waleyc02
 - 👀 I’m interested in web develoment
-- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on Web technologies
 
 <!---
